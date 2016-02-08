@@ -1,0 +1,26 @@
+{
+  "name": "browser-platform",
+  "version": "1.0.0",
+  "description": "Naive browser/platform detection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tracker1/browser-platform.git"
+  },
+  "keywords": [
+    "browser",
+    "platform",
+    "detection",
+    "useragent",
+    "server"
+  ],
+  "author": "Michael J. Ryan <tracker1@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tracker1/browser-platform/issues"
+  },
+  "homepage": "https://github.com/tracker1/browser-platform#readme"
+}
